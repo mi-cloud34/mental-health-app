@@ -43,4 +43,4 @@ Welcome to the **Meditation App**, a beautifully designed and thoughtfully craft
 ## 📚 Getting Started  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/meditation-app.git
+   git clone https://github.com/mi-cloud34/mental-health-app.git
